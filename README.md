@@ -5,3 +5,6 @@ Prerequisites:
 1. Must have a login for the Dexcom.
 2. Must Sign up for Sugarmate and link your Dexcom data to Sugarmate.3
 3. In Sugarmate settings, enable External JSON and take note of the CODE in the URL: http://sugarmate.io/api/v1/**CODE**/latest.json
+
+How to use:
+You must open the sugarwindow.ini file and change a few variables to your likeing. You will find those under a section called [Variables] on line 21.
