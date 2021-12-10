@@ -1,4 +1,7 @@
 # SugarWindow
+
+** 12/09/2021 - Due to updates with Sugarmate the JSON connection has been disabled, this will no longer work. **
+
 Displaying your Dexcom readings with Rainmeter (https://www.rainmeter.net/), Dexcom G6 (https://uam1.dexcom.com/), and Sugarmate (https://sugarmate.io/). I found this code on reddit at https://www.reddit.com/r/diabetes/comments/hbxmza/rainmeter_dexcom_sugarmate_desktop_skin/ by a u/turtledave and simply modified it to fit me. I figured I would post it here so other Diabetic or resources could use this as well.
 
 Prerequisites:
